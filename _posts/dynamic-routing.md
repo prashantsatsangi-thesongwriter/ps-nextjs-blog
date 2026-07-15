@@ -3,7 +3,7 @@ title: The Concept of Music release for Man Ki Doree
 coverImage: /assets/blog/dynamic-routing/cover.jpg
 date: 2020-03-16T05:35:00.000Z
 author:
-  name: JJ Kasper
+  name: "Prashant Satsangi "
   picture: /assets/blog/authors/jj.jpeg
 ogImage:
   url: /assets/blog/dynamic-routing/cover.jpg
